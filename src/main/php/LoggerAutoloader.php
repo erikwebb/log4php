@@ -66,6 +66,7 @@ class LoggerAutoloader {
 		'LoggerAppenderFirephp' => '/appenders/LoggerAppenderFirephp.php',
 		'LoggerAppenderPDO' => '/appenders/LoggerAppenderPDO.php',
 		'LoggerAppenderPhp' => '/appenders/LoggerAppenderPhp.php',
+		'LoggerAppenderRedis' => '/appenders/LoggerAppenderRedis.php',
 		'LoggerAppenderRollingFile' => '/appenders/LoggerAppenderRollingFile.php',
 		'LoggerAppenderSocket' => '/appenders/LoggerAppenderSocket.php',
 		'LoggerAppenderSyslog' => '/appenders/LoggerAppenderSyslog.php',
